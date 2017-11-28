@@ -51,9 +51,6 @@ void setDice(char* dice) {
 		this->dice[0] = dice[0];
 		this->dice[1] = dice[1];
 	}
-	else {
-		
-	}
 };
 
 char* getDice(void) {
